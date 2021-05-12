@@ -135,7 +135,7 @@ namespace Screenshot_Program
         private void txtSshotKey_KeyDown(object sender, KeyEventArgs e)
         {
             // If the textbox is empty then do this.
-            if (txtSshotKey.Text == "")
+            /*if (txtSshotKey.Text == "")
             {
                 // Sets the textbox to the key which was pressed.
                 txtSshotKey.Text += e.KeyCode.ToString();
@@ -147,7 +147,9 @@ namespace Screenshot_Program
                 // Then is sets the textbox to the key which was pressed.
                 txtSshotKey.Clear();
                 txtSshotKey.Text += e.KeyCode.ToString();
-            }
+            }*/
+            
+            txtSshotKey.Text = e.KeyCode.ToString();
 
             // Surpresses the key.
             e.Handled = true;
