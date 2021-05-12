@@ -1,0 +1,106 @@
+c:\users\matthew\Desktop\Visual Studio\Projects\Screenshot Program\Screenshot Program\obj\Debug\Screenshot Program.csprojAssemblyReference.cache
+c:\users\matthew\Desktop\Visual Studio\Projects\Screenshot Program\Screenshot Program\obj\Debug\Screenshot_Program.Properties.Resources.resources
+c:\users\matthew\Desktop\Visual Studio\Projects\Screenshot Program\Screenshot Program\obj\Debug\Screenshot Program.csproj.GenerateResource.cache
+c:\users\matthew\Desktop\Visual Studio\Projects\Screenshot Program\Screenshot Program\obj\Debug\Screenshot Program.csproj.CoreCompileInputs.cache
+c:\users\matthew\Desktop\Visual Studio\Projects\Screenshot Program\Screenshot Program\obj\Debug\Screenshot_Program.Form1.resources
+c:\users\matthew\Desktop\Visual Studio\Projects\Screenshot Program\Screenshot Program\bin\Debug\Screenshot Program.exe.config
+c:\users\matthew\Desktop\Visual Studio\Projects\Screenshot Program\Screenshot Program\bin\Debug\Screenshot Program.exe
+c:\users\matthew\Desktop\Visual Studio\Projects\Screenshot Program\Screenshot Program\bin\Debug\Screenshot Program.pdb
+c:\users\matthew\Desktop\Visual Studio\Projects\Screenshot Program\Screenshot Program\obj\Debug\Screenshot Program.exe
+c:\users\matthew\Desktop\Visual Studio\Projects\Screenshot Program\Screenshot Program\obj\Debug\Screenshot Program.pdb
+c:\users\matthew\Desktop\Visual Studio\Projects\Screenshot Program\Screenshot Program\obj\Debug\Screenshot_Program.Images.resources
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\bin\Debug\Screenshot Program.exe.config
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\bin\Debug\Screenshot Program.exe
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\bin\Debug\Screenshot Program.pdb
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\obj\Debug\Screenshot Program.csprojAssemblyReference.cache
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\obj\Debug\Screenshot_Program.Form1.resources
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\obj\Debug\Screenshot_Program.Images.resources
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\obj\Debug\Screenshot_Program.Properties.Resources.resources
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\obj\Debug\Screenshot Program.csproj.GenerateResource.cache
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\obj\Debug\Screenshot Program.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\obj\Debug\Screenshot Program.exe
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\obj\Debug\Screenshot Program.pdb
+M:\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\bin\Debug\Screenshot Program.exe.config
+M:\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\obj\Debug\Screenshot Program.exe
+M:\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\obj\Debug\Screenshot Program.pdb
+M:\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\bin\Debug\Screenshot Program.exe
+M:\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\bin\Debug\Screenshot Program.pdb
+M:\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\obj\Debug\Screenshot Program.csprojResolveAssemblyReference.cache
+M:\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\obj\Debug\Screenshot_Program.Form1.resources
+M:\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\obj\Debug\Screenshot_Program.Images.resources
+M:\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\obj\Debug\Screenshot_Program.Properties.Resources.resources
+M:\Visual Studio\Projects\Screenshot Program - test\Screenshot Program\obj\Debug\Screenshot Program.csproj.GenerateResource.Cache
+M:\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\bin\Debug\Screenshot Program.exe.config
+M:\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot Program.exe
+M:\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot Program.pdb
+M:\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\bin\Debug\Screenshot Program.exe
+M:\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\bin\Debug\Screenshot Program.pdb
+M:\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot Program.csprojResolveAssemblyReference.cache
+M:\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot_Program.Form1.resources
+M:\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot_Program.Images.resources
+M:\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot_Program.Properties.Resources.resources
+M:\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot Program.csproj.GenerateResource.Cache
+M:\Visual Studio\Projects\!My programs\Screenshot Program - Pog Edition\Screenshot Program\bin\Debug\Screenshot Program.exe.config
+M:\Visual Studio\Projects\!My programs\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot Program.exe
+M:\Visual Studio\Projects\!My programs\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot Program.pdb
+M:\Visual Studio\Projects\!My programs\Screenshot Program - Pog Edition\Screenshot Program\bin\Debug\Screenshot Program.exe
+M:\Visual Studio\Projects\!My programs\Screenshot Program - Pog Edition\Screenshot Program\bin\Debug\Screenshot Program.pdb
+M:\Visual Studio\Projects\!My programs\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot Program.csprojResolveAssemblyReference.cache
+M:\Visual Studio\Projects\!My programs\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot_Program.Form1.resources
+M:\Visual Studio\Projects\!My programs\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot_Program.Images.resources
+M:\Visual Studio\Projects\!My programs\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot_Program.Properties.Resources.resources
+M:\Visual Studio\Projects\!My programs\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot Program.csproj.GenerateResource.Cache
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\bin\Debug\Screenshot Program.exe.config
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\bin\Debug\Screenshot Program.exe
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\bin\Debug\Screenshot Program.pdb
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot Program.csprojAssemblyReference.cache
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot_Program.Form1.resources
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot_Program.Images.resources
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot_Program.Properties.Resources.resources
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot Program.csproj.GenerateResource.cache
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot Program.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot Program.exe
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition\Screenshot Program\obj\Debug\Screenshot Program.pdb
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou\Screenshot Program\bin\Debug\Screenshot Program.exe.config
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou\Screenshot Program\bin\Debug\Screenshot Program.exe
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou\Screenshot Program\bin\Debug\Screenshot Program.pdb
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot Program.csprojAssemblyReference.cache
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot_Program.Form1.resources
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot_Program.Images.resources
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot_Program.Properties.Resources.resources
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot Program.csproj.GenerateResource.cache
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot Program.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot Program.exe
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot Program.pdb
+C:\Users\Matthew\Desktop\Visual Studio\Screenshot Program - Pog Edition fuckyou\Screenshot Program\bin\Debug\Screenshot Program.exe.config
+C:\Users\Matthew\Desktop\Visual Studio\Screenshot Program - Pog Edition fuckyou\Screenshot Program\bin\Debug\Screenshot Program.exe
+C:\Users\Matthew\Desktop\Visual Studio\Screenshot Program - Pog Edition fuckyou\Screenshot Program\bin\Debug\Screenshot Program.pdb
+C:\Users\Matthew\Desktop\Visual Studio\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot Program.csprojAssemblyReference.cache
+C:\Users\Matthew\Desktop\Visual Studio\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot_Program.Form1.resources
+C:\Users\Matthew\Desktop\Visual Studio\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot_Program.Images.resources
+C:\Users\Matthew\Desktop\Visual Studio\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot_Program.Properties.Resources.resources
+C:\Users\Matthew\Desktop\Visual Studio\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot Program.csproj.GenerateResource.cache
+C:\Users\Matthew\Desktop\Visual Studio\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot Program.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\Visual Studio\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot Program.exe
+C:\Users\Matthew\Desktop\Visual Studio\Screenshot Program - Pog Edition fuckyou\Screenshot Program\obj\Debug\Screenshot Program.pdb
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou1\Screenshot Program\bin\Debug\Screenshot Program.exe.config
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou1\Screenshot Program\bin\Debug\Screenshot Program.exe
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou1\Screenshot Program\bin\Debug\Screenshot Program.pdb
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou1\Screenshot Program\obj\Debug\Screenshot Program.csprojAssemblyReference.cache
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou1\Screenshot Program\obj\Debug\Screenshot_Program.Form1.resources
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou1\Screenshot Program\obj\Debug\Screenshot_Program.Images.resources
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou1\Screenshot Program\obj\Debug\Screenshot_Program.Properties.Resources.resources
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou1\Screenshot Program\obj\Debug\Screenshot Program.csproj.GenerateResource.cache
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou1\Screenshot Program\obj\Debug\Screenshot Program.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou1\Screenshot Program\obj\Debug\Screenshot Program.exe
+C:\Users\Matthew\Desktop\Visual Studio\Projects\Screenshot Program - Pog Edition fuckyou1\Screenshot Program\obj\Debug\Screenshot Program.pdb
+M:\Visual Studio\Projects\!My programs\Screenshot Program - College\Screenshot Program\bin\Debug\Screenshot Program.exe.config
+M:\Visual Studio\Projects\!My programs\Screenshot Program - College\Screenshot Program\obj\Debug\Screenshot Program.exe
+M:\Visual Studio\Projects\!My programs\Screenshot Program - College\Screenshot Program\obj\Debug\Screenshot Program.pdb
+M:\Visual Studio\Projects\!My programs\Screenshot Program - College\Screenshot Program\bin\Debug\Screenshot Program.exe
+M:\Visual Studio\Projects\!My programs\Screenshot Program - College\Screenshot Program\bin\Debug\Screenshot Program.pdb
+M:\Visual Studio\Projects\!My programs\Screenshot Program - College\Screenshot Program\obj\Debug\Screenshot_Program.Form1.resources
+M:\Visual Studio\Projects\!My programs\Screenshot Program - College\Screenshot Program\obj\Debug\Screenshot_Program.Images.resources
+M:\Visual Studio\Projects\!My programs\Screenshot Program - College\Screenshot Program\obj\Debug\Screenshot_Program.Properties.Resources.resources
+M:\Visual Studio\Projects\!My programs\Screenshot Program - College\Screenshot Program\obj\Debug\Screenshot Program.csproj.GenerateResource.Cache
+M:\Visual Studio\Projects\!My programs\Screenshot Program - College\Screenshot Program\obj\Debug\Screenshot Program.csprojAssemblyReference.cache
